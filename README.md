@@ -1,0 +1,2 @@
+# ocvpro
+OpenCV pro template
